@@ -1,0 +1,5 @@
+print(4+4)
+print(2*4)
+print(28-20)
+print(56/7)
+print(2**3)
