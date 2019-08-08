@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="570fcb5d-6f38-46f0-874f-6707f86bc797" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ch_03/bicycles.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch_03/cars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch_03/greetings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch_03/guest_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch_03/motorcycles.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch_03/names.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch_03/transportation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch_03/world.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_04/pizzas.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch_04/pizzas.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,77 +12,42 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/python_crash_course$greetings.coverage" NAME="greetings Coverage Results" MODIFIED="1562874514481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch_03" />
     <SUITE FILE_PATH="coverage/python_crash_course$motorcycles.coverage" NAME="motorcycles Coverage Results" MODIFIED="1562942771623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch_03" />
     <SUITE FILE_PATH="coverage/python_crash_course$hello_world.coverage" NAME="hello_world Coverage Results" MODIFIED="1561692385162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch_01" />
-    <SUITE FILE_PATH="coverage/python_crash_course$famous_quote.coverage" NAME="famous_quote Coverage Results" MODIFIED="1562780285345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch_02" />
-    <SUITE FILE_PATH="coverage/python_crash_course$variables_data_types.coverage" NAME="variables_data_types Coverage Results" MODIFIED="1561692638892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch_02" />
     <SUITE FILE_PATH="coverage/python_crash_course$name_cases.coverage" NAME="name_cases Coverage Results" MODIFIED="1562780048493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch_02" />
     <SUITE FILE_PATH="coverage/python_crash_course$names.coverage" NAME="names Coverage Results" MODIFIED="1562874270030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch_03" />
     <SUITE FILE_PATH="coverage/python_crash_course$transportation.coverage" NAME="transportation Coverage Results" MODIFIED="1562875073477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch_03" />
     <SUITE FILE_PATH="coverage/python_crash_course$world.coverage" NAME="world Coverage Results" MODIFIED="1563309894819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch_03" />
     <SUITE FILE_PATH="coverage/python_crash_course$bicycles.coverage" NAME="bicycles Coverage Results" MODIFIED="1562874149829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch_03" />
+    <SUITE FILE_PATH="coverage/python_crash_course$magicians.coverage" NAME="magicians Coverage Results" MODIFIED="1565276367078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch_04" />
     <SUITE FILE_PATH="coverage/python_crash_course$personal_message.coverage" NAME="personal_message Coverage Results" MODIFIED="1562780149541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch_02" />
-    <SUITE FILE_PATH="coverage/python_crash_course$birthday.coverage" NAME="birthday Coverage Results" MODIFIED="1562813273555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch_02" />
+    <SUITE FILE_PATH="coverage/python_crash_course$buffet.coverage" NAME="buffet Coverage Results" MODIFIED="1565281258591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch_04" />
+    <SUITE FILE_PATH="coverage/python_crash_course$foods.coverage" NAME="foods Coverage Results" MODIFIED="1565280074845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch_04" />
     <SUITE FILE_PATH="coverage/python_crash_course$favorite_number.coverage" NAME="favorite_number Coverage Results" MODIFIED="1562813866149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch_02" />
+    <SUITE FILE_PATH="coverage/python_crash_course$plyers.coverage" NAME="plyers Coverage Results" MODIFIED="1565278916141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch_04" />
     <SUITE FILE_PATH="coverage/python_crash_course$name.coverage" NAME="name Coverage Results" MODIFIED="1562103448903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch_02" />
-    <SUITE FILE_PATH="coverage/python_crash_course$number_eight.coverage" NAME="number_eight Coverage Results" MODIFIED="1562813515747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch_02" />
-    <SUITE FILE_PATH="coverage/python_crash_course$apostrophe.coverage" NAME="apostrophe Coverage Results" MODIFIED="1562779150775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch_02" />
     <SUITE FILE_PATH="coverage/python_crash_course$cars.coverage" NAME="cars Coverage Results" MODIFIED="1562949079645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch_03" />
-    <SUITE FILE_PATH="coverage/python_crash_course$guest_list.coverage" NAME="guest_list Coverage Results" MODIFIED="1563310130583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch_03" />
+    <SUITE FILE_PATH="coverage/python_crash_course$greetings.coverage" NAME="greetings Coverage Results" MODIFIED="1562874514481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch_03" />
+    <SUITE FILE_PATH="coverage/python_crash_course$numbers.coverage" NAME="numbers Coverage Results" MODIFIED="1565278912935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch_04" />
+    <SUITE FILE_PATH="coverage/python_crash_course$famous_quote.coverage" NAME="famous_quote Coverage Results" MODIFIED="1562780285345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch_02" />
+    <SUITE FILE_PATH="coverage/python_crash_course$variables_data_types.coverage" NAME="variables_data_types Coverage Results" MODIFIED="1561692638892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch_02" />
+    <SUITE FILE_PATH="coverage/python_crash_course$scratch.coverage" NAME="scratch Coverage Results" MODIFIED="1563334505763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/python_crash_course$tuples.coverage" NAME="tuples Coverage Results" MODIFIED="1565280930227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch_04" />
+    <SUITE FILE_PATH="coverage/python_crash_course$birthday.coverage" NAME="birthday Coverage Results" MODIFIED="1562813273555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch_02" />
+    <SUITE FILE_PATH="coverage/python_crash_course$players.coverage" NAME="players Coverage Results" MODIFIED="1565279289347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch_04" />
+    <SUITE FILE_PATH="coverage/python_crash_course$number_eight.coverage" NAME="number_eight Coverage Results" MODIFIED="1562813515747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch_02" />
+    <SUITE FILE_PATH="coverage/python_crash_course$animals.coverage" NAME="animals Coverage Results" MODIFIED="1565276792788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch_04" />
+    <SUITE FILE_PATH="coverage/python_crash_course$apostrophe.coverage" NAME="apostrophe Coverage Results" MODIFIED="1562779150775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch_02" />
+    <SUITE FILE_PATH="coverage/python_crash_course$pizzas.coverage" NAME="pizzas Coverage Results" MODIFIED="1565276633223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch_04" />
+    <SUITE FILE_PATH="coverage/python_crash_course$guest_list.coverage" NAME="guest_list Coverage Results" MODIFIED="1565274825736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch_03" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch_03/world.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="31" column="46" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch_03/motorcycles.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="43" column="18" lean-forward="true" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ch_03/guest_list.py">
+        <entry file="file://$PROJECT_DIR$/ch_04/pizzas.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="47" column="1" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch_03/transportation.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="17" selection-start-column="17" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch_03/names.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch_03/greetings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="8" column="129" lean-forward="true" selection-start-line="8" selection-start-column="129" selection-end-line="8" selection-end-column="129" />
+            <state relative-caret-position="80">
+              <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -126,6 +84,16 @@
         <option value="$PROJECT_DIR$/ch_03/cars.py" />
         <option value="$PROJECT_DIR$/ch_03/world.py" />
         <option value="$PROJECT_DIR$/ch_03/guest_list.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+        <option value="$PROJECT_DIR$/ch_04/magicians.py" />
+        <option value="$PROJECT_DIR$/ch_04/animals.py" />
+        <option value="$PROJECT_DIR$/ch_04/numbers.py" />
+        <option value="$PROJECT_DIR$/ch_04/plyers.py" />
+        <option value="$PROJECT_DIR$/ch_04/players.py" />
+        <option value="$PROJECT_DIR$/ch_04/foods.py" />
+        <option value="$PROJECT_DIR$/ch_04/tuples.py" />
+        <option value="$PROJECT_DIR$/ch_04/buffet.py" />
+        <option value="$PROJECT_DIR$/ch_04/pizzas.py" />
       </list>
     </option>
   </component>
@@ -140,7 +108,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -151,17 +118,19 @@
             <path>
               <item name="python-crash-course" type="b2602c69:ProjectViewProjectNode" />
               <item name="python-crash-course" type="462c0819:PsiDirectoryNode" />
-              <item name="ch_03" type="462c0819:PsiDirectoryNode" />
+              <item name="ch_04" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../basket2basket" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -177,8 +146,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.guest_list">
-    <configuration name="cars" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.buffet">
+    <configuration name="buffet" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-crash-course" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -186,12 +155,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch_03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch_04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch_03/cars.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch_04/buffet.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -200,7 +169,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="guest_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="foods" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-crash-course" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -208,12 +177,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch_03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch_04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch_03/guest_list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch_04/foods.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -222,7 +191,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="motorcycles" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="players" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-crash-course" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -230,12 +199,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch_03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch_04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch_03/motorcycles.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch_04/players.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -244,7 +213,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="transportation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="plyers" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-crash-course" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -252,12 +221,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch_03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch_04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch_03/transportation.py" />
+      <option name="SCRIPT_NAME" value="C:\code\python-crash-course\ch_04\players.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -266,7 +235,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="world" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tuples" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-crash-course" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -274,12 +243,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch_03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch_04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch_03/world.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch_04/tuples.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -290,11 +259,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.guest_list" />
-        <item itemvalue="Python.world" />
-        <item itemvalue="Python.cars" />
-        <item itemvalue="Python.motorcycles" />
-        <item itemvalue="Python.transportation" />
+        <item itemvalue="Python.buffet" />
+        <item itemvalue="Python.tuples" />
+        <item itemvalue="Python.foods" />
+        <item itemvalue="Python.players" />
+        <item itemvalue="Python.plyers" />
       </list>
     </recent_temporary>
   </component>
@@ -316,12 +285,25 @@
       <workItem from="1562864010497" duration="4460000" />
       <workItem from="1562940825551" duration="4678000" />
       <workItem from="1563210896593" duration="824000" />
-      <workItem from="1563307319623" duration="2137000" />
+      <workItem from="1563307319623" duration="3133000" />
+      <workItem from="1563325862678" duration="2119000" />
+      <workItem from="1563637160730" duration="641000" />
+      <workItem from="1563669734539" duration="1271000" />
+      <workItem from="1564190003863" duration="732000" />
+      <workItem from="1564327324507" duration="1091000" />
+      <workItem from="1564340611416" duration="843000" />
+      <workItem from="1564497623851" duration="756000" />
+      <workItem from="1564501825280" duration="1243000" />
+      <workItem from="1564614602222" duration="614000" />
+      <workItem from="1564687341385" duration="608000" />
+      <workItem from="1564929735412" duration="1470000" />
+      <workItem from="1565102490651" duration="692000" />
+      <workItem from="1565274646189" duration="7157000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24579000" />
+    <option name="totallyTimeSpent" value="44812000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -336,13 +318,13 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17516778" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21006711" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32719547" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39971346" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32719547" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
@@ -350,7 +332,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32719547" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.33002833" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.33002833" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -457,14 +439,21 @@
     <entry file="file://$PROJECT_DIR$/ch_03/names.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ch_03/greetings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
-          <caret line="8" column="129" lean-forward="true" selection-start-line="8" selection-start-column="129" selection-end-line="8" selection-end-column="129" />
+          <caret line="8" column="129" selection-start-line="8" selection-start-column="129" selection-end-line="8" selection-end-column="129" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch_03/motorcycles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="43" column="18" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -475,17 +464,76 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch_03/motorcycles.py">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="43" column="18" lean-forward="true" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
+        <state relative-caret-position="40">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch_04/magicians.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="58" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ch_03/guest_list.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="47" column="1" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
+        <state relative-caret-position="498">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch_04/animals.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch_04/players.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch_04/numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="48" column="26" lean-forward="true" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch_04/foods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="118" selection-start-line="12" selection-start-column="118" selection-end-line="12" selection-end-column="118" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch_04/tuples.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch_04/buffet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch_04/pizzas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
         </state>
       </provider>
     </entry>
